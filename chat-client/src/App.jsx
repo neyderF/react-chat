@@ -41,6 +41,7 @@ function App() {
       <div className='flex flex-row '>
         <Sidebar />
         <Chat />
+        
       </div>
 {/* 
       <h1 className="text-3xl font-bold underline text-yellow-300 hover:text-red-500">
